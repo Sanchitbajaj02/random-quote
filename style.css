@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwigley&family=Reggae+One&display=swap');
+
+.heading {
+  font-family: 'Reggae One', cursive;
+  margin: 2rem 0;
+}
+
+.quote {
+  font-size: 5rem;
+}
+
+.quote-text {
+  padding: 1rem 2rem;
+  display: block;
+  /* font-family: 'Lucida Calligraphy'; */
+
+  font-size: 3rem;
+  font-family: 'Qwigley', cursive;
+}
+
+#footer {
+  font-size: 1.1rem;
+}
+
